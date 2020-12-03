@@ -1,2 +1,2 @@
 # Resume
-This include my Resume for perusal. 
+My Resume for perusal. 
